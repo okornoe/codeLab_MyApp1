@@ -9,4 +9,17 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="android_dessert">Android Desserts</string>
+    <string name="ice_cream_image">ice cream image</string>
+    <string name="donut_image">donut image</string>
+    <string name="froyo_image">froyo image</string>
+    <string name="froyo_desc">froyo description</string>
+    <string name="donut_desc">donut description</string>
+    <string name="ice_cream_desc">ice cream description</string>
+
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+
 </resources>
